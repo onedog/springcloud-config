@@ -1,2 +1,2 @@
 config: 
-  info: main,springcloud-config/config-test.yml
+  info: dev,springcloud-config/config-test.yml
