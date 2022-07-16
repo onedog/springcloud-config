@@ -1,2 +1,2 @@
 config: 
-  info: main,springcloud-config/config-prod.yml
+  info: dev,springcloud-config/config-prod.yml
